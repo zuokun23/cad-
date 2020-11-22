@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\zuokun\source\repos\OpenGLTest\OpenGLTest\main.cpp(137,32): warning C4305: “*=”: 从“double”到“float”截断
+C:\Users\zuokun\source\repos\OpenGLTest\OpenGLTest\main.cpp(173,38): warning C4305: “参数”: 从“double”到“GLfloat”截断
+  OpenGLTest.vcxproj -> C:\Users\zuokun\source\repos\OpenGLTest\x64\Debug\OpenGLTest.exe
