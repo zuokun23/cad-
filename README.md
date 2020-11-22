@@ -1,2 +1,2 @@
 # cad大作业
-[图片alt](1.png ''示例1'')
+![](https://github.com/zuokun23/cad-/blob/main/1.png)
