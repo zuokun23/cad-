@@ -1,6 +1,6 @@
 #pragma once
 //
-// Created by ×óÀ¤ on 2020/11/20.
+//
 //
 
 #ifndef UNTITLED_HALFEDGE_H
