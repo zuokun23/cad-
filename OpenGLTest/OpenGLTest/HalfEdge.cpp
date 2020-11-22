@@ -1,5 +1,5 @@
 //
-// Created by ×óÀ¤ on 2020/11/20.
+// 
 //
 
 #include <cassert>
